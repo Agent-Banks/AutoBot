@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e2cc893-0ca8-46c2-a781-f47349d019b4": {
+      "ProjectGuid": "5e2cc893-0ca8-46c2-a781-f47349d019b4",
+      "DisplayName": "AutoBotAPI",
+      "ColorIndex": 0
+    },
+    "fcdb6ae2-1fea-4e6a-b9e2-cbfcbe50df9e": {
+      "ProjectGuid": "fcdb6ae2-1fea-4e6a-b9e2-cbfcbe50df9e",
+      "DisplayName": "AutoBotModels",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

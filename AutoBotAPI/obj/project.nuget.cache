@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "iq/Q71CO/hMmPGmyxnK3F0VGlbqApUwa9ZLOXHlIa9RNbceFR5jKm6lMiIqhtgsDBhLXk3cU2TzHcEmxIT42HQ==",
+  "dgSpecHash": "y093VisL8VL0j35+lrrkrYC+lab2sCYMhSibogC0t0PBsy1U6SGUOkDVoJcVB/ihL48/aw9ms34ORzWOnKIajQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\codyd\\source\\repos\\AutoBot\\AutoBotAPI\\AutoBotAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\codyd\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\codyd\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\codyd\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\codyd\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\codyd\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\codyd\\.nuget\\packages\\selenium.webdriver.chromedriver\\97.0.4692.7100\\selenium.webdriver.chromedriver.97.0.4692.7100.nupkg.sha512",
     "C:\\Users\\codyd\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\codyd\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\codyd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
